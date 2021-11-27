@@ -1,2 +1,2 @@
 # apostilaasPDF
- apostilas em pdf **disponivel** no *git*
+ apostilas em pdf **disponível** no *git*
